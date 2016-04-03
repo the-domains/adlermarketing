@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T22:54:24.760Z'
-dateModified: '2016-04-03T22:54:10.018Z'
+datePublished: '2016-04-03T22:57:58.098Z'
+dateModified: '2016-04-03T22:57:24.975Z'
 title: 180 Eagle Chase Lane
 author: []
+sourcePath: _posts/2016-04-03-180-eagle-chase-lane.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-180-eagle-chase-lane.md
-published: true
 url: 180-eagle-chase-lane/index.html
 _type: Article
 
