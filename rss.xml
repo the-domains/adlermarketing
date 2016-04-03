@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AdlerMarketing]]></title>
         <description><![CDATA[AdlerMarketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adlermarketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 22:55:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 22:58:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adlermarketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[180 Eagle Chase Lane]]></title>
-            <description><![CDATA[<article><h1>180 Eagle Chase Lane</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20e06df8-ed63-4e30-93f4-03834a7a4408.jpg"></article>]]></description>
-            <link>undefined180-eagle-chase-lane/index.html</link>
+            <description><![CDATA[<article><h1>180 Eagle Chase Lane</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd9126fc8c464e733a929cf8dfbbf3dd672d91c2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adlermarketing/180-eagle-chase-lane/index.html</link>
             <guid isPermaLink="false">e4145322-8cb3-4376-8e6f-2e1c9bb03746</guid>
-            <pubDate>Sun, 03 Apr 2016 22:54:24 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 22:57:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
